@@ -1,2 +1,2 @@
 # Oppurtunity Scrapper
-Node js webscraper using puppeteer to scrape scholarship opportunities
+Node js webscraper using puppeteer to scrape scholarship opportunities and internships
